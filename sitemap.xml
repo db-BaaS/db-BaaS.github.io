@@ -2,18 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://db-baas.github.io/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-11</lastmod>
     </url>
     <url>
          <loc>https://db-baas.github.io/blog/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://db-baas.github.io/blog/2025/06/11/-what-is-npx-really/</loc>
+         <lastmod>2025-06-11</lastmod>
     </url>
     <url>
          <loc>https://db-baas.github.io/db/firebase/overview/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://db-baas.github.io/db/supabase/history/</loc>
+         <lastmod>2025-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://db-baas.github.io/db/supabase/installation/</loc>
+         <lastmod>2025-06-11</lastmod>
     </url>
     <url>
          <loc>https://db-baas.github.io/db/supabase/overview/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-11</lastmod>
+    </url>
+    <url>
+         <loc>https://db-baas.github.io/blog/archive/2025/</loc>
+         <lastmod>2025-06-11</lastmod>
     </url>
 </urlset>
